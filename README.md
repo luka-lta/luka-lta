@@ -1,23 +1,39 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Luka <a href="#"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a/></h1>
 
-**I am a 20 year old Junior Developer from germany**
+<p align="center">
+	<a href="#">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Backend+Developer;PHP+%7C+Typescript;Slim&center=true">
+	</a>
+</p>
 
-- 🔭 Working student
-- 🌱 I’m currently learning **C#** 😍
-- 🔎 I'm interested in **Web-Development** and **backend structures**
-- 🤯 I want to learn: *python, rust*
-- 📫 If you want to talk to me, reach out to me on: 
-  - Discord: *@luka.lta (DM's currently open)*
-  - Email: *info@luka-lta.dev*
+```javascript
+class Luka(
+	const name = "Luka Liebenthal",
+	const age = 20,
+	const birthday = LocalDate.of(2005, 08, 21),
+)
+```
 
-### Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu,apple)
+# 💻Tech Stack <a href="#"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></a>
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,md,nginx,raspberrypi,redis,cloudflare,docker,mysql,npm,nodejs,nginx,phpstorm,idea,postman,bash,discord,bots,grafana,elasticsearch)
+<!-- https://skillicons.dev -->
+```kt
+const sectionName = "MAIN_LANGUAGES"
+```
+[![Main Languages](https://skillicons.dev/icons?i=php,typescript)](#)
+```javascript
+const sectionName = "MAIN_IDE"
+```
+[![Libraries](https://skillicons.dev/icons?i=phpstorm)](#)
+```javascript
+const sectionName = "MAIN_TOOLS"
+```
+[![Tools](https://skillicons.dev/icons?i=mysql,grafana,redis,cloudflare,git,github,githubactions,react,vite,elasticsearch)](#)
 
-### Libraries
-![Libraries](https://skillicons.dev/icons?i=discordjs,react,tailwind,vite)
+<div align="center">
+  <h1><b>Socials</b></h1>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/luka-liebenthal-aa047931b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
-### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=js,rust,php,ts,css,html)
+---
