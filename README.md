@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Luka <a href="#"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a/></h1>
+[<h1 align="center"> Hi, I'm Luka <a href="#"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a/></h1>
 
 <p align="center">
 	<a href="#">
@@ -37,3 +37,10 @@ const sectionName = "MAIN_TOOLS"
 <a href="https://www.linkedin.com/in/luka-liebenthal-aa047931b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 ---
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/luka.lta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
