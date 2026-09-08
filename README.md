@@ -9,7 +9,7 @@
 ```javascript
 class Luka(
 	const name = "Luka Liebenthal",
-	const age = 20,
+	const age = 21,
 	const birthday = LocalDate.of(2005, 08, 21),
 )
 ```
